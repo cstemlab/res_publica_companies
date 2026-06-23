@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-06-23T10:43:36.423Z",
+  "sourceFolder": "/Users/logancc/Harvard University Dropbox/Chen Chen/Future/cards",
+  "outputFolder": "/Users/logancc/Harvard University Dropbox/Chen Chen/Future/cards/space_exploration_cards",
+  "definition": "Cards related to space exploration, including satellites, lunar/Mars/interplanetary activity, orbital infrastructure, space economy, space governance, and space health.",
+  "totalCards": 60,
+  "domains": {
+    "Economy": [
+      "Economy_Asteroid-Mining-Economics.png",
+      "Economy_Commercial-Space-Launch-Industry.png",
+      "Economy_In-Space-Manufacturing-Markets.png",
+      "Economy_Lunar-Commerce.png",
+      "Economy_Satellite-Internet-Economy.png",
+      "Economy_Small-Satellite-Boom.png",
+      "Economy_Space-Data-Economy.png",
+      "Economy_Space-Insurance-Evolution.png",
+      "Economy_Space-Tourism-Market.png",
+      "Economy_Space-Workforce-Transformation.png"
+    ],
+    "Environment-Sustainability": [
+      "Environment-Sustainability_Active-Debris-Removal.png",
+      "Environment-Sustainability_Earth-Observation-for-Climate.png",
+      "Environment-Sustainability_Lunar-Resource-Utilization.png",
+      "Environment-Sustainability_Orbital-Debris-Concern.png",
+      "Environment-Sustainability_Satellite-Enabled-Disaster-Response.png",
+      "Environment-Sustainability_Satellite-Methane-Detection.png",
+      "Environment-Sustainability_Space-Agriculture-Research.png",
+      "Environment-Sustainability_Space-Based-Agriculture-Monitoring.png",
+      "Environment-Sustainability_Space-Based-Solar-Power.png"
+    ],
+    "Governance": [
+      "Governance_Commercial-Space-Regulation.png",
+      "Governance_Interplanetary-Governance.png",
+      "Governance_Lunar-Treaty-Negotiations.png",
+      "Governance_Space-Militarization.png",
+      "Governance_Space-Resource-Rights.png",
+      "Governance_Space-Sustainability-Guidelines.png",
+      "Governance_Space-Traffic-Management.png",
+      "Governance_Space-Weaponization-Debate.png",
+      "Governance_Space-as-Critical-Infrastructure.png"
+    ],
+    "Socio-cultural": [
+      "Socio-cultural_Citizen-Space-Science.png",
+      "Socio-cultural_Multiplanetary-Species-Ethics.png",
+      "Socio-cultural_Off-World-Identity.png",
+      "Socio-cultural_Overview-Effect-Awareness.png",
+      "Socio-cultural_Space-Democratization.png",
+      "Socio-cultural_Space-Heritage-Preservation.png",
+      "Socio-cultural_Space-Inspired-Art-Movement.png",
+      "Socio-cultural_Space-as-Existential-Insurance.png"
+    ],
+    "Technology": [
+      "Technology_Asteroid-sample-returns.png",
+      "Technology_Autonomous-Space-Robots.png",
+      "Technology_Commercial-Space-Stations.png",
+      "Technology_Direct-to-Device-Satellite.png",
+      "Technology_Electric-Spacecraft-Propulsion.png",
+      "Technology_In-Space-Propellant-Depots.png",
+      "Technology_Interplanetary-Internet.png",
+      "Technology_Lunar-Landing-Technology.png",
+      "Technology_Mars-Mission-Technology.png",
+      "Technology_Mega-Constellation-Satellites.png",
+      "Technology_Nuclear-Thermal-Propulsion.png",
+      "Technology_On-Orbit-Satellite-Servicing.png",
+      "Technology_Orbital-Manufacturing-Facilities.png",
+      "Technology_Reusable-Rocket-Revolution.png",
+      "Technology_Space-Elevators.png",
+      "Technology_Space-Weather-Prediction.png"
+    ],
+    "Well-being": [
+      "Well-being_Artificial-Gravity-Systems.png",
+      "Well-being_Astronaut-Health-for-All.png",
+      "Well-being_Long-Duration-Spaceflight-Health.png",
+      "Well-being_Microgravity-Medicine-Research.png",
+      "Well-being_Satellite-Health-Connectivity.png",
+      "Well-being_Space-Pharmaceuticals.png",
+      "Well-being_Space-Radiation-Medicine.png",
+      "Well-being_Space-Tourism-Psychology.png"
+    ]
+  }
+}
